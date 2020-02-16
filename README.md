@@ -2,7 +2,7 @@
 This repo will get the Data Analytics homework after they are due. 
 
 
-# Useful Tools
+## Useful Tools
 
 <b>*CMDER*</b><br>A Windows terminal that is a little nicer than cmd. <br>https://cmder.net/<br>
 
