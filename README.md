@@ -18,6 +18,12 @@ From terminal, run:
 Then to install vscode:
 <pre><code>brew cask install visual-studio-code</code></pre>
 
+<b>*Jupyter Themes*</b><br>Every editor should look nice, especially Jupyter<br>https://github.com/dunovank/jupyter-themes<br>
+<pre><code>pip3 install jupyter-themes</code></pre>
+Then to make it look like mine:
+<pre><code>jt -t grade3 -f hasklig -fs 13 -cellw 1200</code></pre>
+
+
 
 
 
