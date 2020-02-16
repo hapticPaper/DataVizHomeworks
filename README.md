@@ -4,7 +4,7 @@ This repo will get the Data Analytics homework after they are due.
 
 ## Useful Tools
 
-<b>*CMDER*</b><br>A Windows terminal that is a little nicer than cmd. <br>https://cmder.net/<br>
+<b>*Cmder*</b><br>A Windows terminal that is a little nicer than cmd. <br>https://cmder.net/<br>
 
 <b>*iTerm2*</b><br>A Mac terminal that is a little nicer than terminal<br>https://iterm2.com/<br>
 
