@@ -12,9 +12,12 @@ This repo will get the Data Analytics homework after they are due.
 
 <b>*PYCHARM*</b><br>A full IDE (Integrated Development Enviornment) for python. <br>https://www.jetbrains.com/pycharm/download/<br>
 
-<b>*brew*</b><br>A Mac package manager that can download and update very useful software.<br>https://brew.sh/<br>
+<b>*brew*</b><br>A Mac package manager that can download and update very useful software. Like VS Code.<br>https://brew.sh/<br>
 From terminal, run:
 <pre><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code></pre>
+Then to install vscode:
+<pre><code>brew cask install visual-studio-code</code></pre>
+
 
 
 
