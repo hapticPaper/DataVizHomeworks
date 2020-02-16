@@ -10,7 +10,7 @@ This repo will get the Data Analytics homework after they are due.
 
 <b>*VS Code*</b><br>An editor for every OS. <br>https://code.visualstudio.com/<br>
 
-<b>*PYCHARM*</b><br>A full IDE (Integrated Development Enviornment) for python. <br>https://www.jetbrains.com/pycharm/download/<br>
+<b>*PyCharm*</b><br>A full IDE (Integrated Development Enviornment) for python. <br>https://www.jetbrains.com/pycharm/download/<br>
 
 <b>*brew*</b><br>A Mac package manager that can download and update very useful software. Like VS Code.<br>https://brew.sh/<br>
 From terminal, run:
