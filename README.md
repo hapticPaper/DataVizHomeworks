@@ -1,4 +1,4 @@
-# DataVizHomeworks
+# DataViz Homeworks
 This repo will get the Data Analytics homework after they are due. 
 
 
