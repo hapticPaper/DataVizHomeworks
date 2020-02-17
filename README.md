@@ -23,7 +23,7 @@ Then to install vscode:
 Then to make it look like mine:
 <pre><code>jt -t grade3 -f hasklig -fs 13 -cellw 1200</code></pre>
 
-
+<b>*Postman*</b><br>An HTTP REST client. (Handy tool for working with web APIs)<br>https://www.postman.com/downloads/<br>
 
 
 
